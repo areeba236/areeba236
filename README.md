@@ -139,7 +139,7 @@ A web application with dynamic food menus, cart & checkout workflows, secure use
 
 <br/><br/>
 
-🚀 **Code Coming Soon**
+[🔗 View Repository](https://github.com/areeba236/feastroyal)
 
 </td>
 <td width="50%" valign="top">
