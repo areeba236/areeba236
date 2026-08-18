@@ -121,7 +121,7 @@ A desktop system utility that extracts text from scanned documents/images and re
 <tr>
 <td width="50%" valign="top">
 
-### 🍔 Full-Stack Food Ordering & Real-Time Tracking Platform
+### 🍔 Full-Stack Food Ordering & Real-Time Tracking Website
 
 A web application with dynamic food menus, cart & checkout workflows, secure user authentication, and interactive real-time order tracking.
 
