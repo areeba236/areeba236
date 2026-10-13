@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=areeba236&label=Profile%20Views&color=FF5722&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/areeba236?label=Followers&style=flat-square&color=001845" alt="followers"/>
+
 
 </div>
 
@@ -27,8 +27,8 @@ expertise:
   - AI / Chatbot Integration
   - OCR Utilities & Document Intelligence
   - Database Design & Management
-currently: "Building end-to-end web platforms & AI-powered desktop tools"
-fun_fact: "I turn coffee ☕ into clean, scalable code."
+currently: Building end-to-end web platforms & AI-powered desktop tools
+
 ```
 
 <br/>
